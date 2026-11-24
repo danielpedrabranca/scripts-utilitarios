@@ -13,7 +13,7 @@ Coleção de scripts utilitários de administração e automação, simples e se
 Cada script fica em uma pasta própria, com README, instruções de instalação, compatibilidade e limitações. Para baixar tudo:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/scripts-utilitarios.git
+git clone https://github.com/danielpedrabranca/scripts-utilitarios.git
 ```
 
 Ou, sem usar git, clique em **Code → Download ZIP** nesta página.
